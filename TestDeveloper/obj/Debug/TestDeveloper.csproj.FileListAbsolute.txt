@@ -1,0 +1,6 @@
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\bin\Debug\TestDeveloper.exe.config
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\bin\Debug\TestDeveloper.exe
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\bin\Debug\TestDeveloper.pdb
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\obj\Debug\TestDeveloper.csprojResolveAssemblyReference.cache
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\obj\Debug\TestDeveloper.exe
+D:\Software 2019\Programacion C#\TestDeveloper\TestDeveloper\obj\Debug\TestDeveloper.pdb
